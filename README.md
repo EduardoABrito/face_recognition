@@ -48,8 +48,8 @@ project-root/
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto-reconhecimento-facial.git
-   cd seu-projeto-reconhecimento-facial
+   git clone https://github.com/EduardoABrito/face_recognition.git
+   cd face_recognition
    ```
 
 2. Crie um ambiente virtual e ative:
